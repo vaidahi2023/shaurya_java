@@ -1,0 +1,27 @@
+basic program 
+operators 
+if else 
+switch
+loops 
+for 
+while 
+do while 
+function 
+
+------------------------------
+array
+pattern 
+opps concept
+encapsalution
+abstraction
+inheritance 
+ ---type of inheritance 
+polymoriphm --
+types of polymoriphm 
+static 
+final 
+finally
+interface
+string 
+
+
