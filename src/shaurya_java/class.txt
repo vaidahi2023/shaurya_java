@@ -1,0 +1,37 @@
+class 
+class is the collection of data members and function .
+class is the instance of object 
+
+object 
+object is real world entity
+object have property
+
+laptop -- class
+dell d5 --object 
+pencil -- class
+dome pencil superdark --object
+active 5g 1234- object 
+
+can i make more than one object from class?
+yes
+
+object creating syntax:
+classname objectname=new classname();
+
+
+new is used to assign memory
+
+access modifier 
+public 
+private 
+protected
+
+oops concept 
+
+encapsulation
+inheritance
+polymoriphm 
+abstraction
+
+encapsulation is one of the core concepts of Object Oriented Programming (OOP) in which we bind the data members and methods into a single unit. 
+Encapsulation is used to hide the implementation part and show the functionality for better readability and usability. 
