@@ -1,0 +1,10 @@
+inheritance 
+
+inheritance is the techquie that inherits parent class properties to children class 
+
+types of inheritance 
+1.single inheritance 
+2.multilevel inheritance 
+3.multiple inheritance
+4.hierichacial inheritance
+5.hybrid inheritance
